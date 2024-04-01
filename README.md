@@ -13,7 +13,7 @@ Probando tecnologia de AR en web desde Unity. Por ahora es SimpleWebXR, posterio
 >-  [Chrome emulator](https://chrome.google.com/webstore/detail/webxr-api-emulator/mjddjgeghkdijejnciaefnkjmkafnnje): Emulador de Chrome en el escritorio.
 > <p>..</p>
 
-Link de la página:
+Link de la página: <https://marioortunez.github.io/WebAR/>
 
 Documentos:
 - [Problemas que me surgieron.](Documentations/Problemas%20en%20Unity.md)
