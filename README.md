@@ -1,7 +1,7 @@
 # WebAR
 Probando tecnologia de AR en web desde Unity. Por ahora es SimpleWebXR, posteriormente intentare implementar la version completa.
 
->### Buscadores compatibles (<label style="font-size:75%;">[sacado de la documentación oficial](https://github.com/Rufus31415/Simple-WebXR-Unity)</label>)
+>### Buscadores compatibles con SimpleWebXR (<label style="font-size:75%;">[sacado de la documentación oficial](https://github.com/Rufus31415/Simple-WebXR-Unity)</label>)
 >Trabaja en:
 >- [Google Chrome](https://play.google.com/store/apps/details?id=com.android.chrome) en Android (<label style="color:red;">warning</label>: se requiere una conexión segura https).
 >- [Edge](https://docs.microsoft.com/windows/mixed-reality/new-microsoft-edge) en Windows 10 para visores de realidad mixta.
@@ -17,6 +17,7 @@ Link de la página:
 
 Documentos:
 - [Problemas que me surgieron.](Documentations/Problemas%20en%20Unity.md)
+- Proyecto de ejemplo: <https://github.com/Rufus31415/Simple-WebXR-Unity/releases/download/v1.0-beta.1/SimpleWebXR.unitypackage>
 
 ### Información externa:
 - [Documentación de SimpleWebXR.](https://github.com/Rufus31415/Simple-WebXR-Unity)
