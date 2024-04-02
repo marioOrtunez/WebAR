@@ -28,10 +28,11 @@ Para resolverlo, es necesario realizar los siguientes pasos en Unity:
 <img src="Resources/Mensajes de error del Wasm.png" alt="Mensajes de error del Wasm" style="width:50%;height:50%;">
 </p>
 
-**- Solución:** 
+**- Solución:** Este error esta probocado por un fallo en el archivo **"Build" > "Build.wasm"** (nombre del archivo depende del nombre que le pongas al build), asi que seria revisarlo. 
 
 ## Problema de pantalla en negro en dispositivos móviles
 
 **- Descripción:** Este problema ocasiona que, al abrir el proyecto en Android, la pantalla se quede en negro, a pesar de que la cámara esté activa.
 
-**-Solución:**
+**-Solución:** Por ahora la solución esta en cambiar el **Scriptable Render Pipeline Settings** que se encuentra en **"Project Settings" > "Graphics"**, añadiendo un **URP (Universal Render Pipeline)**, configurandolo para la ocasión.
+Esta solución es provisional, debido a que todavía se queda en algunos momentos en negro la pantalla. 
