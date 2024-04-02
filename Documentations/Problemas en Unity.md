@@ -20,9 +20,9 @@ Para resolverlo, es necesario realizar los siguientes pasos en Unity:
 1. Ir al menú __"File" > "Build Settings" > "Player Settings" > "Publishing Settings" > "Compress Build"__.
 2. Cambiar la opción de __Gzip__ por __Disable__.
 
-## Problema de configuración de la descarga de los archivos Wasm
+## Problema de configuración de los archivos Wasm
 
-**- Descripción:** Este problema sucedió al instalar e implementar el *URP (Universal Render Pipeline)* en el proyecto, sacando dos errores, uno en el buscador y otro en el proyecto, mostrados en esta imagen:
+**- Descripción:** Este problema sucedió al instalar e implementar el *URP (Universal Render Pipeline)* en el proyecto, sacando dos errores, uno en el buscador y otro en el proyecto, mostrados en esta imagen (imagen sacada desde el buscador **Firefox**):
 
 <p align="center">
 <img src="Resources/Mensajes de error del Wasm.png" alt="Mensajes de error del Wasm" style="width:50%;height:50%;">
