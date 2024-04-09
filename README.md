@@ -8,7 +8,9 @@ Repositorio para la prueba de web con tecnologia AR en Unity con Github.
 
 [✔] Funciona al utilizar imagen propia, esta por ahora:
 
+<p align="center">
 <img src="https://github.com/marioOrtunez/WebAR/assets/162109593/890789ce-2a16-4a89-ae3b-0eff318d44c8" alt="pattern-Logo_T" style="width:25%;height:25%;">
+</p>
 
 ### Por hacer: 
 
