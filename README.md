@@ -3,7 +3,7 @@
 Repositorio para la prueba de web con tecnologia AR en Unity con Github.
 
 Hecho:
-[✔] Funcionamiento de cámara. (Le cuesta un poco 😅)
+[✔] Funcionamiento de cámara (le cuesta un poco 😅).
 [✔] Funciona al utilizar imagen propia, esta por ahora:
 ![pattern-Logo_T](https://github.com/marioOrtunez/WebAR/assets/162109593/890789ce-2a16-4a89-ae3b-0eff318d44c8)
 
