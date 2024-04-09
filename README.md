@@ -2,7 +2,7 @@
 
 Repositorio para la prueba de web con tecnologia AR en Unity con Github.
 
-Hecho:
+### Hecho:
 
 [✔] Funcionamiento de cámara (le cuesta un poco 😅).
 
@@ -10,7 +10,7 @@ Hecho:
 
 <img src="https://github.com/marioOrtunez/WebAR/assets/162109593/890789ce-2a16-4a89-ae3b-0eff318d44c8" alt="pattern-Logo_T" style="width:25%;height:25%;">
 
-Por hacer: 
+### Por hacer: 
 
 [✘] Makers: lo que permite hacer que se imprima sobre la imagen deseada. 
 Para crearlos es desde [aquí](https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html).
