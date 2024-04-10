@@ -14,7 +14,7 @@ Repositorio para la prueba de web con tecnologia AR en Unity con Github.
 
 [✔] AR.js Makers: lo que permite hacer que se imprima sobre la imagen deseada. 
 Para crearlos es desde [aquí](https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html).
-[Link de la Wiki](https://github.com/marioOrtunez/WebAR/wiki/AR.js-Markers)
+[Link de mi Wiki.](https://github.com/marioOrtunez/WebAR/wiki/AR.js-Markers)
 
 
 ### Por hacer: 
